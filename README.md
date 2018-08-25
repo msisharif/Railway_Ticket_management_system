@@ -1,7 +1,7 @@
 # Railway_Ticket_management_system
 Manage your Railway ticket with this System
 
-Screenshots
+# Screenshots
 
 <img src = "Screenshots/1.PNG" width = 350>
 <img src = "Screenshots/2.PNG" width = 350>
